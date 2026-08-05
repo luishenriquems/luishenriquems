@@ -1,16 +1,17 @@
-## Hi there 👋
+Olá! Eu sou o Luis Henrique 🚀
 
-<!--
-**luishenriquems/luishenriquems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Analista de Redes Junior
 
-Here are some ideas to get you started:
+🧑‍💻Tecnologias:
+* 🌐 Cisco
+* ☁️ Azure
+* 🐧 Linux
+* 💻 Windows Server
+* 🐍 Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Certificações:
+* ✔️ CCST Networkin
+
+📂 Projetos
+📡 Laboratórios Cisco
+🐍 Automação com Python
