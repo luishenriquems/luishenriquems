@@ -10,8 +10,8 @@ Olá! Eu sou o Luis Henrique 🚀
 * 🐍 Python
 
 📚 Certificações:
-* ✔️ CCST Networkin
+* ✔️ CCST Networking
 
-📂 Projetos
-📡 Laboratórios Cisco
-🐍 Automação com Python
+* 📂 Projetos
+* 📡 Laboratórios Cisco
+* 🐍 Automação com Python
