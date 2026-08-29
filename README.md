@@ -36,53 +36,51 @@ Atualmente, estou aprofundando meus conhecimentos em redes com foco no conteúdo
 
 ---
 
-<img
-  width="50"
-  src="./assets/skills/python.svg"
-  alt="Python"
-  title="Python - Em aprendizado"
-/>
+<h2>🛠️ Skills</h2>
 
-<img
-  width="50"
-  src="./assets/skills/cisco.svg"
-  alt="cisco"
-  title="Python - Em aprendizado"
-/>
+<h3>🌐 Redes</h3>
 
-<img
-  width="50"
-  src="./assets/skills/linux.svg"
-  alt="Python"
-  title="Python - Em aprendizado"
-/>
-
-<img
-  width="50"
-  src="./assets/skills/visual_code.svg"
-  alt="Visual Studio Code"
-  title="Python - Em aprendizado"
-/>
-
-<a href="https://www.credly.com/badges/8cb43f65-4c43-4a38-b90f-f468eb487316/public_url">
+<p>
   <img
-    width="150"
-    src="./assets/certifications/ccst_networking.png"
-    alt="Cisco Certified Support Technician Networking"
-    title="Cisco CCST Networking"
+    width="50"
+    src="./assets/skills/cisco.svg"
+    alt="Cisco"
+    title="Cisco"
   />
-</a>
+</p>
 
-<img
-  width="150"
-  src="./assets/certifications/microsoft_az900.svg"
-  alt="Microsoft Azure Fundamentals"
-  title="Python - Em aprendizado"
-/>
+<p>
+Conhecimentos em tecnologias Cisco e redes de computadores, com experiência prática e evolução contínua no ecossistema Cisco.
+</p>
 
----
+<h3>📚 Em desenvolvimento</h3>
 
-<h2>🌐 Habilidades Técnicas</h2>
+<p>
+  <img
+    width="50"
+    src="./assets/skills/python.svg"
+    alt="Python"
+    title="Python - Em desenvolvimento"
+  />
+  &nbsp;&nbsp;
+  <img
+    width="50"
+    src="./assets/skills/linux.svg"
+    alt="Linux"
+    title="Linux - Em desenvolvimento"
+  />
+  &nbsp;&nbsp;
+  <img
+    width="50"
+    src="./assets/skills/visual_code.svg"
+    alt="Visual Studio Code"
+    title="Visual Studio Code - Em desenvolvimento"
+  />
+</p>
+
+<p>
+Python, Linux e Visual Studio Code fazem parte das tecnologias que estou desenvolvendo atualmente, com foco futuro em automação e infraestrutura de redes.
+</p>
 
 ---
 
@@ -101,14 +99,6 @@ Atualmente, estou aprofundando meus conhecimentos em redes com foco no conteúdo
   <li>Construção de uma base técnica para futuros projetos de automação de redes.</li>
 </ul>
 
-<h3>🖥️ Analista de Suporte Técnico de Infraestrutura</h3>
-
-<ul>
-  <li>Atuação no suporte técnico de ambientes de infraestrutura de TI.</li>
-  <li>Suporte a usuários, sistemas e problemas relacionados à conectividade de rede.</li>
-  <li>Troubleshooting de incidentes relacionados a hardware, software e infraestrutura.</li>
-</ul>
-
 ---
 
 <h2>🎯 Objetivos Profissionais</h2>
@@ -120,4 +110,5 @@ Atualmente, estou aprofundando meus conhecimentos em redes com foco no conteúdo
   <li>Construir laboratórios práticos de redes e documentá-los no GitHub.</li>
   <li>Evoluir profissionalmente para atuar como Engenheiro de Redes especializado em redes e automação.</li>
 </ul>
+
 ```
