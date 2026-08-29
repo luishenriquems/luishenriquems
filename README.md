@@ -64,6 +64,15 @@ Atualmente estou aprofundando meus conhecimentos em tecnologias de redes com foc
   title="Python - Em aprendizado"
 />
 
+<a href="https://www.credly.com/badges/8cb43f65-4c43-4a38-b90f-f468eb487316/public_url">
+  <img
+    width="150"
+    src="./assets/certifications/ccst_networking.png"
+    alt="Cisco Certified Support Technician Networking"
+    title="Cisco CCST Networking"
+  />
+</a>
+
 ---
 
 <h2>🌐 Habilidades Técnicas</h2>
