@@ -12,10 +12,6 @@
   <a href="https://www.linkedin.com/in/luis-henrique-mistura-da-silva-35a9051b2">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-  <a href="mailto:mistura.luishenrique@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -67,13 +63,6 @@ Atualmente estou aprofundando meus conhecimentos em tecnologias de redes com foc
   <li>Troubleshooting de incidentes relacionados a hardware, software e infraestrutura.</li>
 </ul>
 
-<h3>🔧 Assistente de TI</h3>
-
-<ul>
-  <li>Suporte técnico a usuários e ambientes de TI.</li>
-  <li>Auxílio na manutenção da infraestrutura e em atividades relacionadas à tecnologia.</li>
-  <li>Suporte às operações diárias de TI.</li>
-</ul>
 ---
 
 <h2>🎯 Objetivos Profissionais</h2>
