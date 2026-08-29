@@ -57,6 +57,13 @@ Atualmente estou aprofundando meus conhecimentos em tecnologias de redes com foc
   title="Python - Em aprendizado"
 />
 
+<img
+  width="50"
+  src="./assets/skills/visual_code.svg"
+  alt="Visual Studio Code"
+  title="Python - Em aprendizado"
+/>
+
 ---
 
 <h2>🌐 Habilidades Técnicas</h2>
