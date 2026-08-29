@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=luishenriquems&label=Visualizações%20do%20Perfil&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=luishenriquems-profile&label=Visualizações%20do%20Perfil&style=for-the-badge" />
 </p>
 
 <p align="center">
