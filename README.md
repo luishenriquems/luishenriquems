@@ -73,6 +73,13 @@ Atualmente estou aprofundando meus conhecimentos em tecnologias de redes com foc
   />
 </a>
 
+<img
+  width="150"
+  src="./assets/certifications/microsoft_az900.svg"
+  alt="Microsoft Azure Fundamentals"
+  title="Python - Em aprendizado"
+/>
+
 ---
 
 <h2>🌐 Habilidades Técnicas</h2>
