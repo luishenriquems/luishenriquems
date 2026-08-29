@@ -36,6 +36,29 @@ Atualmente estou aprofundando meus conhecimentos em tecnologias de redes com foc
 
 ---
 
+<img
+  width="50"
+  src="./assets/skills/python.svg"
+  alt="Python"
+  title="Python - Em aprendizado"
+/>
+
+<img
+  width="50"
+  src="./assets/skills/cisco.svg"
+  alt="Python"
+  title="Python - Em aprendizado"
+/>
+
+<img
+  width="50"
+  src="./assets/skills/linux.svg"
+  alt="Python"
+  title="Python - Em aprendizado"
+/>
+
+---
+
 <h2>🌐 Habilidades Técnicas</h2>
 
 ---
