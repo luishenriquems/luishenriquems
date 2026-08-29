@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Luis Henrique Mistura da Silva</h1>
 
 <h3 align="center">
-  Analista de Redes Júnior | Certificado CCST | Certificado AZ-900 | Em evolução para Engenharia de Redes com foco em Redes & Automação
+  Analista de Redes Júnior | Certificado CCST | Certificado AZ-900 | Em evolução para me tornar Engenheiro de Redes
 </h3>
 
 <p align="center">
