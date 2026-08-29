@@ -19,19 +19,19 @@
 <h2>👨‍💻 Sobre Mim</h2>
 
 <p>
-Atualmente atuo como <strong>Analista de Redes Júnior</strong>, construindo minha carreira nas áreas de redes de computadores e infraestrutura.
+Atuo como <strong>Analista de Redes Júnior</strong>, construindo minha carreira nas áreas de redes de computadores e infraestrutura.
 </p>
 
 <p>
-Ao longo da minha trajetória profissional, também atuei como <strong>Analista de Suporte Técnico de Infraestrutura</strong> e <strong>Assistente de TI</strong>, experiências que contribuíram para o desenvolvimento de uma base sólida em suporte técnico, infraestrutura e troubleshooting de redes.
+Ao longo da minha trajetória profissional, também atuei como <strong>Analista de Suporte Técnico de Infraestrutura</strong> e <strong>Assistente de TI</strong>, experiências que contribuíram para a construção de uma base sólida em suporte técnico, infraestrutura e troubleshooting de redes.
 </p>
 
 <p>
-Meu objetivo profissional é evoluir continuamente até me tornar um <strong>Engenheiro de Redes</strong>, com forte conhecimento em redes corporativas e automação de redes.
+Meu objetivo profissional é evoluir continuamente até me tornar um <strong>Engenheiro de Redes</strong>, aprofundando meus conhecimentos em redes corporativas e tecnologias de infraestrutura.
 </p>
 
 <p>
-Atualmente estou aprofundando meus conhecimentos em tecnologias de redes com foco no conteúdo do <strong>CCNA</strong> e iniciando meus estudos em <strong>Python aplicado à automação de redes</strong>.
+Atualmente, estou aprofundando meus conhecimentos em redes com foco no conteúdo do <strong>CCNA</strong> e iniciando meus estudos em <strong>Python aplicado à automação de redes</strong>.
 </p>
 
 ---
