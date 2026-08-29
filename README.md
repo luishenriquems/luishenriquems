@@ -84,6 +84,34 @@ Python, Linux e Visual Studio Code fazem parte das tecnologias que estou desenvo
 
 ---
 
+<h2>🏅 Certificações</h2>
+
+<p>
+  <a href="https://www.credly.com/badges/8cb43f65-4c43-4a38-b90f-f468eb487316/public_url">
+    <img
+      height="130"
+      src="./assets/certifications/ccst_networking.png"
+      alt="Cisco Certified Support Technician Networking"
+      title="Cisco CCST Networking"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/api/credentials/share/pt-br/LusHenriqueMisturadaSilva-6190/4566350C2CE5EA24?sharingId=2F252E577BAB2CA2">
+    <img
+      height="130"
+      src="./assets/certifications/microsoft_az900.svg"
+      alt="Microsoft Certified: Azure Fundamentals"
+      title="Microsoft Certified: Azure Fundamentals (AZ-900)"
+    />
+  </a>
+</p>
+
+<p>
+  <strong>CCST Networking</strong> &nbsp;&nbsp; | &nbsp;&nbsp;
+  <strong>Microsoft Azure Fundamentals (AZ-900)</strong>
+</p>
+
+---
 <h2>💼 Experiência Profissional</h2>
 
 <h3>🌐 Analista de Redes Júnior</h3>
