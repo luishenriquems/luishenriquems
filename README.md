@@ -46,7 +46,7 @@ Atualmente estou aprofundando meus conhecimentos em tecnologias de redes com foc
 <img
   width="50"
   src="./assets/skills/cisco.svg"
-  alt="Python"
+  alt="cisco"
   title="Python - Em aprendizado"
 />
 
